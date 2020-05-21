@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('begin'){
             steps {
-                echo 'hello pipeline begin'
+                echo 'hello pipeline begin1'
             }
         }
         stage('running'){
